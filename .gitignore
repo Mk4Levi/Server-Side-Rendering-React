@@ -1,0 +1,8 @@
+
+# dependencies
+/node_modules
+.parcel-cache/
+.env
+.DS_Store
+coverage/
+.vscode/
