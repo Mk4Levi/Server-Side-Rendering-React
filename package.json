@@ -1,5 +1,5 @@
 {
-  "name": "MK-SSR",
+  "name": "mk-ssr",
   "version": "0.1.0",
   "description": "SSR in React-App",
   "main": "index.jsx",

@@ -6,9 +6,9 @@
 
 ## Project's Screenshots =>
 
-![image](./src/assets/img/ss1.png)
-![image](./src/assets/img/ss2.png)
-![image](./src/assets/img/ss3.png)
+![image](./src/assets/ss1.png)
+![image](./src/assets/ss2.png)
+![image](./src/assets/ss3.png)
 
 <h2>Getting Started</h2>
 
@@ -66,46 +66,32 @@ http://localhost:3001
 ├── src
 │   ├── assets/
 │   ├── components/
-|         └── MemberCard.jsx
-|         └── Form.jsx
-|         └── MangaCard.jsx
-│         └── Navbar.jsx
-│         └── PreLoader.jsx
-│         └── Socials.jsx
-|         └── RecommendationCard.jsx
-│         └── index.js
+|         └── App.jsx
+|         └── Carousel.jsx
+|         └── Details.jsx
+│         └── ErrorBoundary.jsx
+│         └── Modal.jsx
+│         └── Pet.jsx
+|         └── Results.jsx
+│         └── SearchParams.jsx
+│         └── fetchBreedList.js
+│         └── fetchPet.js
+│         └── fetchSearch.js
+│         └── useBreedList.js
 │
-│   ├── config/
-|         └── firebaseConfig.js
-│         └── index.js
+│   ├── contexts/
+|         └── AdoptedPetContext.jsx
 │
 │   ├──  css/
-│         └── Home.css
-|         └── Navbar.css
-|         └── AboutMe.css
-│         └── Recommendation.css
-|         └── Manga.css
-|         └── Characters.css
-|         └── Members.css
-|         └── Register.css
-│         └── Socials.css
-│         └── PreLoader.css
-│         └── App.css
-│         └── index.css
-│
-│   ├── database/
-|         └── data.js
-│         └── images.js
-|         └── index.js
+│         └── style.css
 |
-│   ├── App.jsx
 │   ├── index.jsx
+|   ├── index.html
 │   ├── vercel.json
 │
 ├── .eslintrc.json
 ├── .gitattributes
 ├── .gitignore
-├── index.html
 ├── package-lock.json
 ├── package.json
 ├── README.md
